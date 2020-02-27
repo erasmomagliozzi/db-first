@@ -1,0 +1,20 @@
+ID AUTO - INT - PRIMARY_KEY
+Marca - VARCHAR (20) - NOTNULL
+Modello - VARCHAR (20) - NOTNULL
+Colore esterno - VARCHAR(30) - NOTNULL
+Porte - TINYINT - NOTNULL
+Posti a sedere - TINYINT
+Marce - TINYINT - NOTNULL
+Cilindri - TINYINT
+Peso a vuoto - MEDIUMINT
+Chilometri - MEDIUMINT - NOTNULL
+Anno - YEAR - NOTNULL - NOTNULL
+Potenza kw - MEDIUMINT - NOTNULL
+Potenza CV - MEDIUMINT - NOTNULL
+Tipo Cambio - VARCHAR (15) - NOTNULL
+Alimentazione - VARCHAR(15)
+Rivenditore - VARCHAR (30)
+Luogo Rivenditore - VARCHAR(20)
+Prezzo - FLOAT (8,2) - NOTNULL
+Comfort - VARCHAR (30)
+Descrizione - TEXT
